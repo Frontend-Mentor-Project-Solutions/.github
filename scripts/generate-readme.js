@@ -62,7 +62,7 @@ async function fetchTopics(repoName) {
 function makeBadge(repo, difficulty) {
   const colour = COLOURS[difficulty];
   const label = repo.name.replace(/-/g, "_");
-  const badgeUrl = `https://img.shields.io/badge/${label}-${difficulty}-${colour}?style=flat`;
+  const badgeUrl = `https://img.shields.io/badge/${difficulty}-${label}-${colour}?style=flat`;
   const repoUrl = repo.html_url;
   return `[![${repo.name}](${badgeUrl})](${repoUrl})`;
 }
