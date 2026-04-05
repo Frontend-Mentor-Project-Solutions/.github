@@ -32,19 +32,19 @@ experimenting with new CSS features and techniques.
 
 ### Newbie
 
-[![article-preview-component](https://img.shields.io/badge/article_preview_component-newbie-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/article-preview-component)
-[![base-apparel-coming-soon-page](https://img.shields.io/badge/base_apparel_coming_soon_page-newbie-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/base-apparel-coming-soon-page)
-[![interactive-rating-component](https://img.shields.io/badge/interactive_rating_component-newbie-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/interactive-rating-component)
-[![meet-landing-page](https://img.shields.io/badge/meet_landing_page-newbie-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/meet-landing-page)
-[![skilled-elearning-landing-page](https://img.shields.io/badge/skilled_elearning_landing_page-newbie-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/skilled-elearning-landing-page)
-[![workit-landing-page](https://img.shields.io/badge/workit_landing_page-newbie-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/workit-landing-page)
+[![article-preview-component](https://img.shields.io/badge/newbie-article_preview_component-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/article-preview-component)
+[![base-apparel-coming-soon-page](https://img.shields.io/badge/newbie-base_apparel_coming_soon_page-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/base-apparel-coming-soon-page)
+[![interactive-rating-component](https://img.shields.io/badge/newbie-interactive_rating_component-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/interactive-rating-component)
+[![meet-landing-page](https://img.shields.io/badge/newbie-meet_landing_page-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/meet-landing-page)
+[![skilled-elearning-landing-page](https://img.shields.io/badge/newbie-skilled_elearning_landing_page-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/skilled-elearning-landing-page)
+[![workit-landing-page](https://img.shields.io/badge/newbie-workit_landing_page-06b6d4?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/workit-landing-page)
 
 ---
 
 ### Junior
 
-[![news-room-homepage](https://img.shields.io/badge/news_room_homepage-junior-34d399?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/news-room-homepage)
-[![tech-book-club-landing-page](https://img.shields.io/badge/tech_book_club_landing_page-junior-34d399?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/tech-book-club-landing-page)
+[![news-room-homepage](https://img.shields.io/badge/junior-news_room_homepage-34d399?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/news-room-homepage)
+[![tech-book-club-landing-page](https://img.shields.io/badge/junior-tech_book_club_landing_page-34d399?style=flat)](https://github.com/Frontend-Mentor-Project-Solutions/tech-book-club-landing-page)
 
 ---
 
