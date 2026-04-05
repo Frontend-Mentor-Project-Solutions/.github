@@ -31,15 +31,6 @@ const COLOURS = {
   guru: "e11d48",
 };
 
-// Emoji per difficulty
-const EMOJI = {
-  newbie: "🟢",
-  junior: "🔵",
-  intermediate: "🟠",
-  advanced: "🔴",
-  guru: "🟣",
-};
-
 async function fetchAllRepos() {
   const repos = [];
   let page = 1;
@@ -70,7 +61,7 @@ async function fetchTopics(repoName) {
 
 function makeBadge(repo, difficulty) {
   const colour = COLOURS[difficulty];
-  const label = encodeURIComponent(repo.name);
+  const label = repo.name.replace(/-/g, "_");
   const badgeUrl = `https://img.shields.io/badge/${label}-${difficulty}-${colour}?style=flat`;
   const repoUrl = repo.html_url;
   return `[![${repo.name}](${badgeUrl})](${repoUrl})`;
